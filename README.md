@@ -1,2 +1,2 @@
-# RandString
+# RandomString
 generate random string tool
